@@ -1,9 +1,11 @@
 # minios
 create OS from scratch on versatilepb device platform with QEMU
 
+# Prerequisites
+~: sudo apt install qemu-system-arm
 
 # how to run on linux
-~:make qemu
+~: make qemu
 
 
 # reference
